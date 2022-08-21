@@ -11,3 +11,4 @@ Single Thread: 3.5250062942504883s
 
 Multi Thread: 0.13730911631137133s @ 1024 threads
   
+https://forms.gle/YNSSvkEUSJPGsLZB6
